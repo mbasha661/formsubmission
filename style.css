@@ -1,0 +1,24 @@
+
+
+body{
+    background-color: #ef6b6b79;
+    color: #1a1c1c;
+}
+
+.span{
+    font-weight: lighter;
+    font-style: italic;
+}
+
+table{
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+.margin{
+    margin: 3%;
+}
+@media screen and( min-width:567px){
+    .modified{
+        width:100%
+    }
+}
